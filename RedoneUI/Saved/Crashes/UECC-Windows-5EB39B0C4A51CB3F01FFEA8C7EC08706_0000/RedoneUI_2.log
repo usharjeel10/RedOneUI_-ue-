@@ -1,0 +1,1398 @@
+﻿Log file open, 12/22/23 21:33:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14964)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RedoneUI
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:\UEProjects\RedoneUI\RedoneUI.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3803] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3600 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="053f83da48a622880735dbb28f2c40bb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.244290
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5EB39B0C4A51CB3F01FFEA8C7EC08706
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CommonUI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/CommonUI/Content/' mounted to '/CommonUI/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3803] (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_Setup/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.12.22-16.33.15:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.12.22-16.33.15:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.12.22-16.33.15:186][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.12.22-16.33.15:186][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.12.22-16.33.15:187][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.12.22-16.33.15:189][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.12.22-16.33.15:199][  0]LogD3D12RHI: Aftermath initialized
+[2023.12.22-16.33.15:199][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.12.22-16.33.15:357][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.12.22-16.33.15:357][  0]LogD3D12RHI: Adapter has 12129MB of dedicated video memory, 0MB of dedicated system memory, and 8154MB of shared system memory, 1 output[s]
+[2023.12.22-16.33.15:361][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.12.22-16.33.15:361][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8154MB of shared system memory, 0 output[s]
+[2023.12.22-16.33.15:361][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.12.22-16.33.15:361][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.22-16.33.15:361][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.12.22-16.33.15:361][  0]LogHAL: Display: Platform has ~ 16 GB [17101836288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.22-16.33.15:361][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.12.22-16.33.15:361][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2023.12.22-16.33.15:361][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2023.12.22-16.33.15:362][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2023.12.22-16.33.15:362][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2023.12.22-16.33.15:362][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.12.22-16.33.15:362][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.22-16.33.15:362][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.12.22-16.33.15:362][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UEProjects/RedoneUI/Saved/Config/WindowsEditor/Editor.ini]
+[2023.12.22-16.33.15:362][  0]LogInit: Computer: DESKTOP-U8N1AB8
+[2023.12.22-16.33.15:362][  0]LogInit: User: usama
+[2023.12.22-16.33.15:362][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.12.22-16.33.15:362][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.22-16.33.15:362][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.12.22-16.33.15:362][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.12.22-16.33.15:362][  0]LogMemory: Process Physical Memory: 269.84 MB used, 281.88 MB peak
+[2023.12.22-16.33.15:362][  0]LogMemory: Process Virtual Memory: 231.02 MB used, 233.80 MB peak
+[2023.12.22-16.33.15:362][  0]LogMemory: Physical Memory: 4660.22 MB used,  11649.36 MB free, 16309.58 MB total
+[2023.12.22-16.33.15:362][  0]LogMemory: Virtual Memory: 7028.76 MB used,  12096.82 MB free, 19125.58 MB total
+[2023.12.22-16.33.15:362][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.12.22-16.33.15:366][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.22-16.33.15:375][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.12.22-16.33.15:376][  0]LogInit: Using OS detected language (en-US).
+[2023.12.22-16.33.15:376][  0]LogInit: Using OS detected locale (en-US).
+[2023.12.22-16.33.15:377][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.12.22-16.33.15:531][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.22-16.33.15:541][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.12.22-16.33.15:541][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.12.22-16.33.15:541][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.12.22-16.33.15:541][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.12.22-16.33.15:554][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.22-16.33.15:554][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.22-16.33.15:666][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.12.22-16.33.15:670][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.12.22-16.33.15:670][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.12.22-16.33.15:786][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.12.22-16.33.15:824][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.12.22-16.33.15:832][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.12.22-16.33.15:848][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.12.22-16.33.15:862][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.12.22-16.33.15:863][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.12.22-16.33.15:886][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.22-16.33.15:886][  0]LogWindows: Attached monitors:
+[2023.12.22-16.33.15:886][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.12.22-16.33.15:886][  0]LogWindows: Found 1 attached monitors.
+[2023.12.22-16.33.15:886][  0]LogWindows: EnumDisplayDevices:
+[2023.12.22-16.33.15:887][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.12.22-16.33.15:887][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.12.22-16.33.15:887][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.12.22-16.33.15:887][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.12.22-16.33.15:887][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.12.22-16.33.15:887][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.12.22-16.33.15:887][  0]LogD3D12RHI:   Driver Version: 536.99 (internal:31.0.15.3699, unified:536.99)
+[2023.12.22-16.33.15:887][  0]LogD3D12RHI:      Driver Date: 8-4-2023
+[2023.12.22-16.33.15:887][  0]LogRHI: Texture pool is 7157 MB (70% of 10224 MB)
+[2023.12.22-16.33.15:887][  0]LogD3D12RHI: Async texture creation enabled
+[2023.12.22-16.33.15:887][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.12.22-16.33.15:898][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.12.22-16.33.15:902][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/UEProjects/RedoneUI/RedoneUI.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UEProjects/RedoneUI/Intermediate/TurnkeyReport_0.log" -log="E:/UEProjects/RedoneUI/Intermediate/TurnkeyLog_0.log" -project="E:/UEProjects/RedoneUI/RedoneUI.uproject"  -platform=all'
+[2023.12.22-16.33.15:902][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_Setup/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/UEProjects/RedoneUI/RedoneUI.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UEProjects/RedoneUI/Intermediate/TurnkeyReport_0.log" -log="E:/UEProjects/RedoneUI/Intermediate/TurnkeyLog_0.log" -project="E:/UEProjects/RedoneUI/RedoneUI.uproject"  -platform=all" ]
+[2023.12.22-16.33.15:923][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.12.22-16.33.15:930][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.12.22-16.33.15:930][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.22-16.33.15:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.22-16.33.15:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.22-16.33.15:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.22-16.33.15:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.12.22-16.33.15:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.12.22-16.33.15:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.22-16.33.15:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.22-16.33.15:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.22-16.33.15:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.12.22-16.33.15:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.22-16.33.15:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.22-16.33.15:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.12.22-16.33.15:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.12.22-16.33.15:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.12.22-16.33.15:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.22-16.33.15:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.22-16.33.15:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.22-16.33.15:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.12.22-16.33.15:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.22-16.33.15:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.22-16.33.15:971][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.12.22-16.33.15:976][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.22-16.33.15:978][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.12.22-16.33.15:978][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.12.22-16.33.15:978][  0]LogTargetPlatformManager:   ADPCM
+[2023.12.22-16.33.15:978][  0]LogTargetPlatformManager:   PCM
+[2023.12.22-16.33.15:980][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.12.22-16.33.15:980][  0]LogTargetPlatformManager:   BINKA
+[2023.12.22-16.33.15:980][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.12.22-16.33.15:980][  0]LogTargetPlatformManager:   OGG
+[2023.12.22-16.33.15:980][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.12.22-16.33.15:980][  0]LogTargetPlatformManager:   OPUS
+[2023.12.22-16.33.16:016][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.12.22-16.33.16:022][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.12.22-16.33.16:025][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.12.22-16.33.16:026][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.22-16.33.16:026][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/UEProjects/RedoneUI/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.12.22-16.33.16:026][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.22-16.33.16:026][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/UEProjects/RedoneUI/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.12.22-16.33.16:026][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.12.22-16.33.16:030][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2023.12.22-16.33.16:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UEProjects/RedoneUI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.22-16.33.16:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.12.22-16.33.16:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UEProjects/RedoneUI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.22-16.33.16:030][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.12.22-16.33.16:054][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.12.22-16.33.16:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.22-16.33.16:054][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.12.22-16.33.16:064][  0]LogDerivedDataCache: Speed tests for C:/Users/usama/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.12.22-16.33.16:064][  0]LogDerivedDataCache: Display: Performance to C:/Users/usama/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1689.42MBs, RandomWriteSpeed=128.48MBs. Assigned SpeedClass 'Local'
+[2023.12.22-16.33.16:065][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usama/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.22-16.33.16:065][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.22-16.33.16:065][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.12.22-16.33.16:071][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.12.22-16.33.16:071][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.12.22-16.33.16:072][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (E:/UEProjects/RedoneUI/Intermediate/Shaders/WorkingDirectory/14936/).
+[2023.12.22-16.33.16:072][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usama/AppData/Local/Temp/UnrealShaderWorkingDir/13B4974A4479F4B573AF80BFE8B1B704/'.
+[2023.12.22-16.33.16:072][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.22-16.33.16:072][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.12.22-16.33.17:325][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.22-16.33.17:326][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.22-16.33.17:355][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2023.12.22-16.33.17:360][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.12.22-16.33.17:532][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.12.22-16.33.17:533][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.12.22-16.33.17:743][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.12.22-16.33.17:743][  0]LogDeviceProfileManager: Active device profile: [000008DDD84555C0][000008DDD8630000 50] WindowsEditor
+[2023.12.22-16.33.17:743][  0]LogDeviceProfileManager: Profiles: [000008DDD8455080][000008DDD8632800 50] Windows, [000008DDD84555C0][000008DDD8630000 50] WindowsEditor, [000008DDD8453100][000008DDD8635000 50] WindowsServer, [000008DDD84516C0][000008DDCCC92800 50] WindowsClient, [000008DDD8453D40][000008DDD863A000 50] IOS, [000008DDD8455780][000008DDCD6F0000 50] iPadAir2, [000008DDD8455E80][000008DDD8642800 50] IPadPro, [000008DDD8456200][000008DDD8640000 50] iPadAir3, [000008DDD8453F00][000008DDD8645000 50] iPadAir4, [000008DDD8452BC0][000008DDD8637800 50] iPadMini4, [000008DDD8451340][000008DDD8647800 50] iPadMini5, [000008DDD8454440][000008DDB9725000 50] iPadMini6, [000008DDD8458A40][000008DDD8652800 50] iPhone6S, [000008DDD8458880][000008DDD865A000 50] iPhone7, [000008DDD8458500][000008DDD865C800 50] iPodTouch7, [000008DDD8452D80][000008DDD864A000 50] iPhone6SPlus, [000008DDD8452840][000008DDD8650000 50] iPhone7Plus, [000008DDD8451C00][000008DDD863C800 50] iPhoneSE, [000008DDD8457540][000008DDD8657800 50] iPhone8, [000008DDD8452A00][000008DDD8662800 50] iPhone8Plus, [000008DDD8455400][000008DDD8660000 50] iPhoneX, [000008DDD8452F40][000008DDD866A000 50] iPhoneXS, [000008DDD8456E40][000008DDD8655000 50] iPhoneXSMax, [000008DDD8454B40][000008DDD864C800 50] iPhoneXR, [000008DDD8453640][000008DDD8667800 50] iPhone11, [000008DDD8456900][000008DDD8682800 50] iPhone11Pro, [000008DDD84539C0][000008DDD8680000 50] iPhone11ProMax, [000008DDD8457700][000008DDD868A000 50] iPhoneSE2, [000008DDD8454EC0][000008DDD8665000 50] iPhone12Mini, [000008DDD8452140][000008DDD8685000 50] iPhone12, [000008DDD8457FC0][000008DDD8687800 50] iPhone12Pro, [000008DDD8458C00][000008DDD8692800 50] iPhone12ProMax, [000008DDD8455CC0][000008DDD8690000 50] iPhone13Mini, [000008DDD8453B80][000008DDD869A000 50] iPhone13, [000008DDD84524C0][000008DDD868C800 50] iPhone13Pro, [000008DDD84578C0][000008DDCD6AA000 50] iPhone13ProMax, [000008DDD8452680][000008DDD8697800 50] iPadPro105, [000008DDD8457380][000008DDD86A2800 50] iPadPro129, [000008DDD8450E00][000008DDD86A0000 50] iPadPro97, [000008DDD8451880][000008DDD86AA000 50] iPadPro2_129, [000008DDD8451DC0][000008DDD8695000 50] iPad5, [000008DDD8457A80][000008DDD86A5000 50] iPad6, [000008DDD84540C0][000008DDD86A7800 50] iPad7, [000008DDD8451A40][000008DDD86B2800 50] iPad8, [000008DDD84547C0][000008DDD86B0000 50] iPad9, [000008DDD8456580][000008DDD86BA000 50] iPadPro11, [000008DDD8457000][000008DDD86AC800 50] iPadPro2_11, [000008DDD8456C80][000008DDD866C800 50] iPadPro3_11, [000008DDD84508C0][000008DDD86B7800 50] iPadPro3_129, [000008DDD8451180][000008DDD86C2800 50] iPadPro4_129, [000008DDD8452300][000008DDD86C0000 50] iPadPro5_129, [000008DDD84532C0][000008DDD86CA000 50] AppleTV, [000008DDD84563C0][000008DDD86B5000 50] AppleTV4K, [000008DDD8456AC0][000008DDD86C5000 50] TVOS, [000008DDD845AF00][000008DDD86D2800 50] Mac, [000008DDD845B280][000008DDD86D0000 50] MacEditor, [000008DDD8453480][000008DDD86D5000 50] MacClient, [000008DDD8458DC0][000008DDD86CC800 50] MacServer, [000008DDD8450FC0][000008DDD86E2800 50] Linux, [000008DDD845B600][000008DDD86E0000 50] LinuxEditor, [000008DDD8455B00][000008DDD86E5000 50] LinuxArm64Editor, [000008DDD8456740][000008DDD86DC800 50] LinuxArm64, [000008DDD845A640][000008DDD86E7800 50] LinuxClient, [000008DDD845A480][000008DDD86DA000 50] LinuxArm64Client, [000008DDD845B7C0][000008DDD86BC800 50] LinuxServer, [000008DDD8451F80][000008DDD86D7800 50] LinuxArm64Server, [000008DDD8459A00][000008DDD86EC800 50] Android, [000008DDD845A100][000008DDD86F2800 50] Android_Preview_OpenGL, [000008DDD8459680][000008DDD86F0000 50] Android_Preview_Vulkan, [000008DDD845AB80][000008DDD86FA000 50] Android_Low, [000008DDD8459BC0][000008DDD86EA000 50] Android_Mid, [000008DDD845A2C0][000008DDD86C7800 50] Android_High, [000008DDD8454600][000008DDD86F7800 50] Android_Default, [000008DDD8457C40][000008DDD8702800 50] Android_Adreno4xx, [000008DDD8455940][000008DDD8700000 50] Android_Adreno5xx_Low, [000008DDD8458180][000008DDD870A000 50] Android_Adreno5xx, [000008DDD845A800][000008DDD86F5000 50] Android_Adreno6xx, [000008DDD8459D80][000008DDD8705000 50] Android_Adreno6xx_Vulkan, [000008DDD845AD40][000008DDD8707800 50] Android_Adreno7xx, [000008DDD8459F40][000008DDD8712800 50] Android_Adreno7xx_Vulkan, [000008DDD8459140][000008DDD8710000 50] Android_Mali_T6xx, [000008DDD8459840][000008DDD871A000 50] Android_Mali_T7xx, [000008DDD845C400][000008DDD870C800 50] Android_Mali_T8xx, [000008DDD84594C0][000008DDD869C800 50] Android_Mali_G71, [000008DDD8451500][000008DDD8717800 50] Android_Mali_G72, [000008DDD8458340][000008DDD8722800 50] Android_Mali_G72_Vulkan, [000008DDD845C5C0][000008DDD8720000 50] Android_Mali_G76, [000008DDD8457E00][000008DDD872A000 50] Android_Mali_G76_Vulkan, [000008DDD845C940][000008DDD8715000 50] Android_Mali_G77, [000008DDD8456040][000008DDD8725000 50] Android_Mali_G77_Vulkan, [000008DDD8454280][000008DDD8727800 50] Android_Mali_G78, [000008DDD845D3C0][000008DDD8732800 50] Android_Mali_G78_Vulkan, [000008DDD845B0C0][000008DDD8730000 50] Android_Mali_G710, [000008DDD84586C0][000008DDD873A000 50] Android_Mali_G710_Vulkan, [000008DDD8453800][000008DDD872C800 50] Android_Xclipse_920, [000008DDD845D580][000008DDD86FC800 50] Android_Xclipse_920_Vulkan, [000008DDD845BB40][000008DDD8737800 50] Android_Vulkan_SM5, [000008DDD845BD00][000008DDD8742800 50] Android_PowerVR_G6xxx, [000008DDD845C080][000008DDD8740000 50] Android_PowerVR_GT7xxx, [000008DDD845E380][000008DDD874A000 50] Android_PowerVR_GE8xxx, [000008DDD8458F80][000008DDD8735000 50] Android_PowerVR_GM9xxx, [000008DDD845DAC0][000008DDD8745000 50] Android_PowerVR_GM9xxx_Vulkan, [000008DDD845D040][000008DDD8747800 50] Android_TegraK1, [000008DDD845E540][000008DDD8752800 50] Android_Unknown_Vulkan, [000008DDD845A9C0][000008DDD8750000 50] Oculus_Quest, [000008DDD845E8C0][000008DDD875A000 50] Oculus_Quest2, [000008DDD845B440][000008DDD874C800 50] HoloLens, 
+[2023.12.22-16.33.17:743][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.12.22-16.33.17:765][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.12.22-16.33.17:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.22-16.33.17:996][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.22-16.33.17:996][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.22-16.33.17:996][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.22-16.33.17:996][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.22-16.33.18:008][  0]LogNetVersion: RedoneUI 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1411921822)
+[2023.12.22-16.33.18:179][  0]LogSlate: Border
+[2023.12.22-16.33.18:179][  0]LogSlate: BreadcrumbButton
+[2023.12.22-16.33.18:179][  0]LogSlate: Default
+[2023.12.22-16.33.18:179][  0]LogSlate: Icons.Save
+[2023.12.22-16.33.18:179][  0]LogSlate: Icons.Toolbar.Settings
+[2023.12.22-16.33.18:179][  0]LogSlate: ListView
+[2023.12.22-16.33.18:179][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.12.22-16.33.18:179][  0]LogSlate: SoftwareCursor_Grab
+[2023.12.22-16.33.18:179][  0]LogSlate: TableView.DarkRow
+[2023.12.22-16.33.18:179][  0]LogSlate: TableView.Row
+[2023.12.22-16.33.18:179][  0]LogSlate: TreeView
+[2023.12.22-16.33.18:781][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.18:852][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.18:852][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.19:050][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.12.22-16.33.19:051][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.12.22-16.33.19:051][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.22-16.33.20:899][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 01BA51174EB225089A81398ECBB654F8 | Instance: BC7A70244E6D9BC1C3C7659C898F6361 (DESKTOP-U8N1AB8-14936).
+[2023.12.22-16.33.21:008][  0]LogPython: Using Python 3.9.7
+[2023.12.22-16.33.22:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.22-16.33.22:049][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.22-16.33.22:262][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.22:308][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.22:330][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.22:399][  0]LogUProjectInfo: Found projects:
+[2023.12.22-16.33.23:947][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.12.22-16.33.24:099][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.22-16.33.24:134][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.22-16.33.24:210][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.22-16.33.24:210][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.22-16.33.24:640][  0]LogCollectionManager: Loaded 0 collections in 0.001291 seconds
+[2023.12.22-16.33.24:960][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/RedoneUI/Saved/Collections/' took 0.00s
+[2023.12.22-16.33.24:960][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/RedoneUI/Content/Developers/usama/Collections/' took 0.00s
+[2023.12.22-16.33.24:960][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/RedoneUI/Content/Collections/' took 0.00s
+[2023.12.22-16.33.25:410][  0]LogEngine: Initializing Engine...
+[2023.12.22-16.33.25:428][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.12.22-16.33.25:893][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.22-16.33.25:895][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.22-16.33.25:933][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-16.33.25:993][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.22-16.33.25:999][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.22-16.33.26:058][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.22-16.33.26:062][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.22-16.33.26:062][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.12.22-16.33.26:064][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.22-16.33.26:064][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.22-16.33.26:064][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.22-16.33.26:064][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.22-16.33.26:065][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.22-16.33.26:065][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.22-16.33.26:065][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.22-16.33.26:107][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.22-16.33.26:155][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.12.22-16.33.26:156][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.22-16.33.26:175][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.22-16.33.26:175][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.22-16.33.26:176][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.12.22-16.33.26:176][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.22-16.33.26:178][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.22-16.33.26:178][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.12.22-16.33.26:178][  0]LogInit: FAudioDevice initialized.
+[2023.12.22-16.33.26:178][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.22-16.33.26:178][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.22-16.33.26:178][  0]LogInit: Texture streaming: Enabled
+[2023.12.22-16.33.26:268][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.12.22-16.33.26:295][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.22-16.33.26:337][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.12.22-16.33.26:371][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.12.22-16.33.26:371][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.12.22-16.33.27:719][  0]LogLiveCoding: Display: Detected running instance in process group "UE_RedoneUI_0x4ea500db", connecting to console process (PID: 13884)
+[2023.12.22-16.33.27:719][  0]LogLiveCoding: Display: Waiting for server
+[2023.12.22-16.33.27:719][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.12.22-16.33.27:762][  0]LogInit: Transaction tracking system initialized
+[2023.12.22-16.33.27:914][  0]BlueprintLog: New page: Editor Load
+[2023.12.22-16.33.28:447][  0]LocalizationService: Localization service is disabled
+[2023.12.22-16.33.28:546][  0]TimingProfiler: Initialize
+[2023.12.22-16.33.28:547][  0]TimingProfiler: OnSessionChanged
+[2023.12.22-16.33.28:547][  0]LoadingProfiler: Initialize
+[2023.12.22-16.33.28:547][  0]LoadingProfiler: OnSessionChanged
+[2023.12.22-16.33.28:548][  0]NetworkingProfiler: Initialize
+[2023.12.22-16.33.28:549][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.22-16.33.28:549][  0]MemoryProfiler: Initialize
+[2023.12.22-16.33.28:549][  0]MemoryProfiler: OnSessionChanged
+[2023.12.22-16.33.29:976][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/RedoneUI/Content/' took 0.02s
+[2023.12.22-16.33.29:976][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.12.22-16.33.30:548][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.22-16.33.30:551][  0]SourceControl: Source control is disabled
+[2023.12.22-16.33.30:552][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.148
+[2023.12.22-16.33.30:553][  0]Cmd: MAP LOAD FILE="E:/UEProjects/RedoneUI/Content/levels/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.22-16.33.30:592][  0]LightingResults: New page: Lighting Build
+[2023.12.22-16.33.30:602][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.22-16.33.30:603][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-16.33.30:604][  0]MapCheck: New page: Map Check
+[2023.12.22-16.33.30:604][  0]LightingResults: New page: Lighting Build
+[2023.12.22-16.33.30:614][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.22-16.33.30:620][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.22-16.33.32:397][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2023.12.22-16.33.32:406][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-16.33.32:407][  0]LogAIModule: Creating AISystem for world level1
+[2023.12.22-16.33.32:454][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.22-16.33.32:455][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.12.22-16.33.34:074][  0]LogWorldPartition: Display: WorldPartition initialize took 1.61 sec
+[2023.12.22-16.33.34:309][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.22-16.33.34:319][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.22-16.33.34:320][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.22-16.33.34:321][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.589ms to complete.
+[2023.12.22-16.33.34:321][  0]LogFileHelpers: Loading map 'level1' took 3.769
+[2023.12.22-16.33.34:352][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.949
+[2023.12.22-16.33.34:352][  0]LogShaderCompilers: Display: ================================================
+[2023.12.22-16.33.34:352][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.22-16.33.34:352][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.12.22-16.33.34:352][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.12.22-16.33.34:352][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.12.22-16.33.34:353][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.22-16.33.34:353][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.22-16.33.34:353][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.22-16.33.34:353][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.22-16.33.34:353][  0]LogShaderCompilers: Display: ================================================
+[2023.12.22-16.33.34:471][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.12.22-16.33.34:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-16.33.34:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-16.33.34:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-16.33.34:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-16.33.34:555][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:556][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:564][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:564][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:571][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:572][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:578][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:578][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:593][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:593][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:599][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:599][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:605][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:605][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:610][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:610][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:615][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:615][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:619][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_Setup/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.12.22-16.33.34:620][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.12.22-16.33.34:620][  0]LogFeaturePack: Error: Error in Feature pack D:/UE_Setup/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.12.22-16.33.35:215][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.12.22-16.33.35:317][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.12.22-16.33.35:962][  0]LogSlate: Took 0.003868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.22-16.33.35:968][  0]LogSlate: Took 0.003973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.22-16.33.35:975][  0]LogSlate: Took 0.004145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.22-16.33.35:981][  0]LogSlate: Took 0.004138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.22-16.33.36:031][  0]LogViewport: Scene viewport resized to 1206x562, mode Windowed.
+[2023.12.22-16.33.36:107][  0]LogSlate: Took 0.005109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.22-16.33.36:913][  0]LogStall: Startup...
+[2023.12.22-16.33.36:916][  0]LogStall: Startup complete.
+[2023.12.22-16.33.36:926][  0]LogLoad: (Engine Initialization) Total time: 22.52 seconds
+[2023.12.22-16.33.36:926][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.22-16.33.36:978][  0]LogAssetRegistry: Asset discovery search completed in 19.6236 seconds
+[2023.12.22-16.33.36:982][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.12.22-16.33.37:130][  0]LogContentStreaming: Texture pool size now 800 MB
+[2023.12.22-16.33.40:049][ 45]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.22-16.34.49:406][347]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/In_Game/HUD.HUD
+[2023.12.22-16.34.49:407][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-16.34.49:416][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-16.34.49:422][347]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.12.22-16.34.50:766][347]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-16.34.50:767][347]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-16.34.51:214][347]LogSlate: Took 0.005112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.22-16.34.51:218][347]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.12.22-16.35.16:315][ 97]LogDerivedDataCache: C:/Users/usama/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.160 and deleted 0 file(s) with total size 0 MiB.
+[2023.12.22-16.42.08:073][454]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/17994639-302A-4BA2-992E-FBC7A8891AB2.17994639-302A-4BA2-992E-FBC7A8891AB2
+[2023.12.22-16.42.08:132][454]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.42.08:542][454]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.42.24:810][ 45]LogSlate: Window '17994639-302A-4BA2-992E-FBC7A8891AB2' being destroyed
+[2023.12.22-16.42.27:126][295]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055.97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055
+[2023.12.22-16.42.27:143][295]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.42.27:250][295]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.42.31:780][731]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.42.33:044][862]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/playerMovmentBG.playerMovmentBG
+[2023.12.22-16.42.33:045][862]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.42.33:149][862]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.42.36:593][193]LogSlate: Window 'playerMovmentBG' being destroyed
+[2023.12.22-16.42.37:957][339]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/17994639-302A-4BA2-992E-FBC7A8891AB2.17994639-302A-4BA2-992E-FBC7A8891AB2
+[2023.12.22-16.42.37:957][339]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.42.38:065][339]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.42.43:601][880]LogSlate: Window '17994639-302A-4BA2-992E-FBC7A8891AB2' being destroyed
+[2023.12.22-16.46.15:701][179]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055.97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055
+[2023.12.22-16.46.15:702][179]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.46.15:798][179]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.47.48:467][488]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.47.48:472][488]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.48.23:041][318]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/17994639-302A-4BA2-992E-FBC7A8891AB2.17994639-302A-4BA2-992E-FBC7A8891AB2
+[2023.12.22-16.48.23:041][318]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.48.23:128][318]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.48.27:588][742]LogSlate: Window '17994639-302A-4BA2-992E-FBC7A8891AB2' being destroyed
+[2023.12.22-16.48.28:972][891]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055.97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055
+[2023.12.22-16.48.28:972][891]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.48.29:078][891]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.48.37:064][678]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.48.38:188][788]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/playerMovmentBG.playerMovmentBG
+[2023.12.22-16.48.38:189][788]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.48.38:281][788]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.48.40:763][ 28]LogSlate: Window 'playerMovmentBG' being destroyed
+[2023.12.22-16.48.41:831][142]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/17994639-302A-4BA2-992E-FBC7A8891AB2.17994639-302A-4BA2-992E-FBC7A8891AB2
+[2023.12.22-16.48.41:832][142]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.48.41:928][142]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.48.47:262][657]LogSlate: Window '17994639-302A-4BA2-992E-FBC7A8891AB2' being destroyed
+[2023.12.22-16.48.48:480][784]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/playerMovmentBG.playerMovmentBG
+[2023.12.22-16.48.48:481][784]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.48.48:578][784]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.48.51:384][ 52]LogSlate: Window 'playerMovmentBG' being destroyed
+[2023.12.22-16.50.46:208][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.12.22-16.50.46:211][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/level1' took 0.117
+[2023.12.22-16.50.46:228][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/In_Game/HUD] ([2] browsable assets)...
+[2023.12.22-16.50.46:241][991]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/In_Game/HUD.HUD]
+[2023.12.22-16.50.46:241][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/In_Game/HUD]
+[2023.12.22-16.50.46:241][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/In_Game/HUD" FILE="E:/UEProjects/RedoneUI/Saved/Autosaves/Game/In_Game/HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.22-16.50.46:253][991]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.010120 seconds
+[2023.12.22-16.50.46:485][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/In_Game/HUD_Auto1
+[2023.12.22-16.50.46:496][991]LogSavePackage: Moving 'E:/UEProjects/RedoneUI/Saved/HUD_Auto10B2723D34DC13D84EF8F73B04C3EEEC3.tmp' to 'E:/UEProjects/RedoneUI/Saved/Autosaves/Game/In_Game/HUD_Auto1.uasset'
+[2023.12.22-16.50.46:515][991]LogFileHelpers: Auto-saving content packages took 0.305
+[2023.12.22-16.52.08:093][638]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055.97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055
+[2023.12.22-16.52.08:093][638]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.52.08:195][638]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.52.23:056][ 57]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.52.23:060][ 57]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.53.02:076][509]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/movements/97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055.97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055
+[2023.12.22-16.53.02:076][509]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.53.02:162][509]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.53.06:489][939]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.53.06:493][939]LogSlate: Window '97AD2801-11A4-4CF4-9DCD-E4FA5B2B3055' being destroyed
+[2023.12.22-16.56.52:728][464]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.12.22-16.56.53:302][474]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.12.22-16.56.55:824][730]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.12.22-16.56.56:238][768]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.12.22-16.56.56:869][832]LogEditorTransaction: Undo Add Widget
+[2023.12.22-16.56.58:584][ 21]LogEditorTransaction: Redo Add Widget
+[2023.12.22-16.58.00:691][146]LogSlate: Took 0.004313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.22-16.59.18:738][796]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/In-Game_ui/Hud/Top_Right_Icons.Top_Right_Icons
+[2023.12.22-16.59.18:738][796]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.12.22-16.59.18:840][796]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2023.12.22-16.59.20:856][995]LogSlate: Window 'Top_Right_Icons' being destroyed
+[2023.12.22-16.59.20:860][995]LogSlate: Window 'Top_Right_Icons' being destroyed
+[2023.12.22-17.05.20:743][992]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.12.22-17.05.21:279][  1]Cmd: TRANSACTION UNDO
+[2023.12.22-17.05.21:279][  1]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.12.22-17.08.24:228][791]LogEditorTransaction: Undo Set Vector Property
+[2023.12.22-17.11.33:406][894]BlueprintLog: New page: Compile HUD
+[2023.12.22-17.11.33:685][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.12.22-17.11.34:990][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/In_Game/HUD" FILE="E:/UEProjects/RedoneUI/Content/In_Game/HUD.uasset" SILENT=true
+[2023.12.22-17.11.35:217][ 25]LogSavePackage: Moving output files for package: /Game/In_Game/HUD
+[2023.12.22-17.11.35:217][ 25]LogSavePackage: Moving 'E:/UEProjects/RedoneUI/Saved/HUDC1FFCF324895F7B325E117A200B884B9.tmp' to 'E:/UEProjects/RedoneUI/Content/In_Game/HUD.uasset'
+[2023.12.22-17.11.35:233][ 25]AssetCheck: New page: Asset Save: HUD
+[2023.12.22-17.11.35:233][ 25]LogContentValidation: Display: Validating WidgetBlueprint /Game/In_Game/HUD.HUD
+[2023.12.22-17.12.23:564][890]LogSlate: Took 0.004609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.22-17.12.30:501][713]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-17.12.30:502][713]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-17.13.42:475][846]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-17.13.42:475][846]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-17.14.57:475][172]BlueprintLog: New page: Compile HUD
+[2023.12.22-17.14.57:722][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.12.22-17.15.01:232][520]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-17.15.01:232][520]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.22-17.15.13:504][875]BlueprintLog: New page: Compile HUD
+[2023.12.22-17.15.13:697][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.12.22-17.15.24:147][988]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.22-17.15.24:223][988]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.22-17.15.24:223][988]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.22-17.15.24:223][988]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.12.22-17.15.24:223][988]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.12.22-17.15.24:223][988]LogWorldPartition: Display: GetPartitionedActors took 181 us
+[2023.12.22-17.15.24:801][988]LogWorldPartition: Display: GenerateStreaming took 578 ms
+[2023.12.22-17.15.24:806][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.22-17.15.24:806][988]PIE: New page: PIE session: level1 (Dec 23, 2023, 3:15:24 AM)
+[2023.12.22-17.15.24:810][988]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.22-17.15.24:810][988]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.12.22-17.15.24:811][988]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level1
+[2023.12.22-17.15.24:962][988]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.12.22-17.15.24:963][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151283s)
+[2023.12.22-17.15.24:963][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level1.level1 to /Game/levels/UEDPIE_0_level1.level1 (0.151506s)
+[2023.12.22-17.15.24:963][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-17.15.24:963][988]LogAIModule: Creating AISystem for world level1
+[2023.12.22-17.15.24:964][988]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.22-17.15.24:964][988]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.12.22-17.15.24:969][988]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2023.12.22-17.15.24:970][988]LogPlayLevel: PIE: World Init took: (0.006915s)
+[2023.12.22-17.15.25:019][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.12.22-17.15.25:024][988]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.22-17.15.25:025][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.22-17.15.25:025][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.22-17.15.25:025][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.22-17.15.25:025][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.22-17.15.25:025][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.22-17.15.25:085][988]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.22-17.15.25:103][988]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.12.22-17.15.25:104][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.22-17.15.25:104][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.22-17.15.25:104][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.22-17.15.25:105][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.22-17.15.25:105][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.22-17.15.25:106][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.22-17.15.25:106][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.22-17.15.25:106][988]LogInit: FAudioDevice initialized.
+[2023.12.22-17.15.25:106][988]LogAudio: Display: Audio Device (ID: 2) registered with world 'level1'.
+[2023.12.22-17.15.25:107][988]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.12.22-17.15.25:124][988]LogLoad: Game class is 'GameModeBase'
+[2023.12.22-17.15.25:127][988]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.12.22-22.15.25
+[2023.12.22-17.15.25:128][988]LogWorld: Bringing up level for play took: 0.003772
+[2023.12.22-17.15.25:130][988]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.12.22-17.15.25:215][988]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=212.328 Y=-1139.844 Z=519.106
+[2023.12.22-17.15.25:215][988]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.12.22-17.15.25:215][988]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=212.328 Y=-1139.844 Z=519.106,P=0.000000 Y=112.785252 R=-0.000000
+[2023.12.22-17.15.25:219][988]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/NH/N3SG1IUXLZV2B5GTM2V878.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/NH/N3SG1IUXLZV2B5GTM2V878.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/3E/VZVTOYCVY7P3KTD6YH547Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/3E/VZVTOYCVY7P3KTD6YH547Q.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/4O/9LOY8096EWB3K8W776AA5S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/4O/9LOY8096EWB3K8W776AA5S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/F5/JRSBJCG67E7NQJCMC0NSZ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.15.25:919][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/H1/LDP6OVP70PHX32RQMG473C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/H1/LDP6OVP70PHX32RQMG473C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/V0/HUKH6RLIOQLS4TGIDBT3PO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/V0/HUKH6RLIOQLS4TGIDBT3PO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/6/4K/QYDTLP4CB59N043WK5SZCI.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/7/Q1/COU61203S5V1IF13D9707T.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/5N/B179LHVQF98T2A1NKMN4WR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/5U/04HXFN5PIZT7J6MK70S9DB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/HC/KT3RVB5ADMK30UEFNC9R10.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/9/M3/06849QVR3A4YV3ZN156K7B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/A/BZ/KJIM8TMUFMR864Y5DY9SXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/4W/EZSWFW41AP1O9U5D4K7S6S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/QD/R94S9NYOQZTMNHGEE4SOM3.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/QD/R94S9NYOQZTMNHGEE4SOM3.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/JG/RUW66DJSBIYOPZZD80FY0Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.15.25:920][988]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.25:997][988]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.15.26:040][988]PIE: Server logged in
+[2023.12.22-17.15.26:042][988]PIE: Play in editor total start time 1.881 seconds.
+[2023.12.22-17.15.32:425][611]LogViewport: Scene viewport resized to 1206x564, mode Windowed.
+[2023.12.22-17.15.32:471][613]LogViewport: Scene viewport resized to 1206x589, mode Windowed.
+[2023.12.22-17.15.32:511][615]LogViewport: Scene viewport resized to 1206x598, mode Windowed.
+[2023.12.22-17.15.32:551][617]LogViewport: Scene viewport resized to 1206x604, mode Windowed.
+[2023.12.22-17.15.32:589][619]LogViewport: Scene viewport resized to 1206x606, mode Windowed.
+[2023.12.22-17.15.32:688][629]LogViewport: Scene viewport resized to 1206x610, mode Windowed.
+[2023.12.22-17.15.32:726][631]LogViewport: Scene viewport resized to 1206x614, mode Windowed.
+[2023.12.22-17.15.32:764][633]LogViewport: Scene viewport resized to 1206x618, mode Windowed.
+[2023.12.22-17.15.32:800][635]LogViewport: Scene viewport resized to 1206x620, mode Windowed.
+[2023.12.22-17.15.32:839][637]LogViewport: Scene viewport resized to 1206x623, mode Windowed.
+[2023.12.22-17.15.32:879][639]LogViewport: Scene viewport resized to 1206x629, mode Windowed.
+[2023.12.22-17.15.32:919][641]LogViewport: Scene viewport resized to 1206x633, mode Windowed.
+[2023.12.22-17.15.32:959][643]LogViewport: Scene viewport resized to 1206x641, mode Windowed.
+[2023.12.22-17.15.32:998][645]LogViewport: Scene viewport resized to 1206x652, mode Windowed.
+[2023.12.22-17.15.33:042][647]LogViewport: Scene viewport resized to 1206x658, mode Windowed.
+[2023.12.22-17.15.33:082][649]LogViewport: Scene viewport resized to 1206x662, mode Windowed.
+[2023.12.22-17.15.33:119][651]LogViewport: Scene viewport resized to 1206x666, mode Windowed.
+[2023.12.22-17.15.33:233][662]LogViewport: Scene viewport resized to 1206x668, mode Windowed.
+[2023.12.22-17.15.33:267][664]LogViewport: Scene viewport resized to 1206x675, mode Windowed.
+[2023.12.22-17.15.33:301][666]LogViewport: Scene viewport resized to 1206x680, mode Windowed.
+[2023.12.22-17.15.33:341][668]LogViewport: Scene viewport resized to 1206x683, mode Windowed.
+[2023.12.22-17.15.35:588][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-17.15.35:588][910]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.12.22-17.15.35:606][910]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.22-17.15.35:607][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.15.35:629][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.22-17.15.35:644][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.15.35:714][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-17.15.35:726][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.22-17.15.35:728][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.22-17.15.35:781][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.12.22-17.15.35:813][911]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.12.22-17.15.50:502][461]BlueprintLog: New page: Compile HUD
+[2023.12.22-17.15.50:724][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.12.22-17.16.11:435][702]BlueprintLog: New page: Compile HUD
+[2023.12.22-17.16.11:627][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.12.22-17.16.13:110][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.22-17.16.13:118][834]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.22-17.16.13:118][834]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.22-17.16.13:118][834]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.12.22-17.16.13:118][834]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.12.22-17.16.13:118][834]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2023.12.22-17.16.13:208][834]LogWorldPartition: Display: GenerateStreaming took 89 ms
+[2023.12.22-17.16.13:208][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.22-17.16.13:208][834]PIE: New page: PIE session: level1 (Dec 23, 2023, 3:16:13 AM)
+[2023.12.22-17.16.13:209][834]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level1
+[2023.12.22-17.16.13:248][834]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.12.22-17.16.13:249][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040228s)
+[2023.12.22-17.16.13:249][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level1.level1 to /Game/levels/UEDPIE_0_level1.level1 (0.040287s)
+[2023.12.22-17.16.13:249][834]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-17.16.13:249][834]LogAIModule: Creating AISystem for world level1
+[2023.12.22-17.16.13:250][834]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.22-17.16.13:250][834]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.12.22-17.16.13:257][834]LogWorldPartition: Display: WorldPartition initialize took 6 ms
+[2023.12.22-17.16.13:257][834]LogPlayLevel: PIE: World Init took: (0.008159s)
+[2023.12.22-17.16.13:324][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.12.22-17.16.13:332][834]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.22-17.16.13:332][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.22-17.16.13:332][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.22-17.16.13:334][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.22-17.16.13:334][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.22-17.16.13:334][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.22-17.16.13:337][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.22-17.16.13:355][834]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.12.22-17.16.13:355][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.22-17.16.13:355][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.22-17.16.13:355][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.22-17.16.13:356][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.12.22-17.16.13:357][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.12.22-17.16.13:360][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.12.22-17.16.13:360][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.12.22-17.16.13:360][834]LogInit: FAudioDevice initialized.
+[2023.12.22-17.16.13:360][834]LogAudio: Display: Audio Device (ID: 3) registered with world 'level1'.
+[2023.12.22-17.16.13:360][834]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.12.22-17.16.13:375][834]LogLoad: Game class is 'GameModeBase'
+[2023.12.22-17.16.13:378][834]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.12.22-22.16.13
+[2023.12.22-17.16.13:378][834]LogWorld: Bringing up level for play took: 0.003376
+[2023.12.22-17.16.13:381][834]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.12.22-17.16.13:382][834]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=212.328 Y=-1139.844 Z=519.106
+[2023.12.22-17.16.13:382][834]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.12.22-17.16.13:382][834]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=212.328 Y=-1139.844 Z=519.106,P=0.000000 Y=112.785252 R=-0.000000
+[2023.12.22-17.16.13:384][834]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/JG/RUW66DJSBIYOPZZD80FY0Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/QD/R94S9NYOQZTMNHGEE4SOM3.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/QD/R94S9NYOQZTMNHGEE4SOM3.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/4W/EZSWFW41AP1O9U5D4K7S6S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/A/BZ/KJIM8TMUFMR864Y5DY9SXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/9/M3/06849QVR3A4YV3ZN156K7B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/HC/KT3RVB5ADMK30UEFNC9R10.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/5U/04HXFN5PIZT7J6MK70S9DB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/5N/B179LHVQF98T2A1NKMN4WR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/7/Q1/COU61203S5V1IF13D9707T.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/6/4K/QYDTLP4CB59N043WK5SZCI.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/V0/HUKH6RLIOQLS4TGIDBT3PO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/V0/HUKH6RLIOQLS4TGIDBT3PO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/H1/LDP6OVP70PHX32RQMG473C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/H1/LDP6OVP70PHX32RQMG473C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/F5/JRSBJCG67E7NQJCMC0NSZ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/4O/9LOY8096EWB3K8W776AA5S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/4O/9LOY8096EWB3K8W776AA5S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/3E/VZVTOYCVY7P3KTD6YH547Q.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/3E/VZVTOYCVY7P3KTD6YH547Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/NH/N3SG1IUXLZV2B5GTM2V878.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/NH/N3SG1IUXLZV2B5GTM2V878.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.16.13:718][834]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:795][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:796][834]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.16.13:829][834]PIE: Server logged in
+[2023.12.22-17.16.13:830][834]PIE: Play in editor total start time 0.713 seconds.
+[2023.12.22-17.16.24:777][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-17.16.24:777][ 16]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.12.22-17.16.24:795][ 16]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.22-17.16.24:796][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.16.24:807][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.22-17.16.24:821][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.16.24:889][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.22-17.16.24:896][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.22-17.16.24:898][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.22-17.16.24:901][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-17.16.24:914][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.12.22-17.16.24:944][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.12.22-17.16.50:694][919]BlueprintLog: New page: Compile HUD
+[2023.12.22-17.16.50:883][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.12.22-17.17.36:800][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/In_Game/HUD" FILE="E:/UEProjects/RedoneUI/Content/In_Game/HUD.uasset" SILENT=true
+[2023.12.22-17.17.37:010][263]LogSavePackage: Moving output files for package: /Game/In_Game/HUD
+[2023.12.22-17.17.37:010][263]LogSavePackage: Moving 'E:/UEProjects/RedoneUI/Saved/HUDFBD10FF548D53199C616439310881AB5.tmp' to 'E:/UEProjects/RedoneUI/Content/In_Game/HUD.uasset'
+[2023.12.22-17.17.37:047][263]AssetCheck: New page: Asset Save: HUD
+[2023.12.22-17.17.37:047][263]LogContentValidation: Display: Validating WidgetBlueprint /Game/In_Game/HUD.HUD
+[2023.12.22-17.17.38:781][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.22-17.17.38:789][443]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.22-17.17.38:789][443]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.22-17.17.38:789][443]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.12.22-17.17.38:789][443]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.12.22-17.17.38:789][443]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2023.12.22-17.17.38:880][443]LogWorldPartition: Display: GenerateStreaming took 91 ms
+[2023.12.22-17.17.38:880][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.22-17.17.38:881][443]PIE: New page: PIE session: level1 (Dec 23, 2023, 3:17:38 AM)
+[2023.12.22-17.17.38:881][443]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level1
+[2023.12.22-17.17.38:916][443]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.12.22-17.17.38:916][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035192s)
+[2023.12.22-17.17.38:916][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level1.level1 to /Game/levels/UEDPIE_0_level1.level1 (0.035248s)
+[2023.12.22-17.17.38:916][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-17.17.38:917][443]LogAIModule: Creating AISystem for world level1
+[2023.12.22-17.17.38:917][443]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.22-17.17.38:917][443]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.12.22-17.17.38:925][443]LogWorldPartition: Display: WorldPartition initialize took 7 ms
+[2023.12.22-17.17.38:925][443]LogPlayLevel: PIE: World Init took: (0.008837s)
+[2023.12.22-17.17.39:008][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2023.12.22-17.17.39:013][443]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.22-17.17.39:013][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.22-17.17.39:013][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.22-17.17.39:014][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.22-17.17.39:014][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.22-17.17.39:014][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.22-17.17.39:016][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.22-17.17.39:038][443]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.12.22-17.17.39:038][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.22-17.17.39:038][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.22-17.17.39:038][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.22-17.17.39:039][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.12.22-17.17.39:039][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.12.22-17.17.39:041][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.12.22-17.17.39:041][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.12.22-17.17.39:041][443]LogInit: FAudioDevice initialized.
+[2023.12.22-17.17.39:041][443]LogAudio: Display: Audio Device (ID: 4) registered with world 'level1'.
+[2023.12.22-17.17.39:042][443]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.12.22-17.17.39:056][443]LogLoad: Game class is 'GameModeBase'
+[2023.12.22-17.17.39:059][443]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.12.22-22.17.39
+[2023.12.22-17.17.39:059][443]LogWorld: Bringing up level for play took: 0.002560
+[2023.12.22-17.17.39:060][443]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.12.22-17.17.39:061][443]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=212.328 Y=-1139.844 Z=519.106
+[2023.12.22-17.17.39:061][443]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.12.22-17.17.39:061][443]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=212.328 Y=-1139.844 Z=519.106,P=0.000000 Y=112.785252 R=-0.000000
+[2023.12.22-17.17.39:063][443]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/MB/NKY5H6P0QPI256ZMBJP7GF.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/E/JG/RUW66DJSBIYOPZZD80FY0Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/QD/R94S9NYOQZTMNHGEE4SOM3.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/QD/R94S9NYOQZTMNHGEE4SOM3.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/D/LP/K0O17IGCV3C03GHESGNRFE.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/EU/W71EQN5LKMOKY0Y8F57C20.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/C/4W/EZSWFW41AP1O9U5D4K7S6S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/A/BZ/KJIM8TMUFMR864Y5DY9SXV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/9/M3/06849QVR3A4YV3ZN156K7B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/HC/KT3RVB5ADMK30UEFNC9R10.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:374][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/5U/04HXFN5PIZT7J6MK70S9DB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/8/5N/B179LHVQF98T2A1NKMN4WR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/7/Q1/COU61203S5V1IF13D9707T.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/6/4K/QYDTLP4CB59N043WK5SZCI.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/V0/HUKH6RLIOQLS4TGIDBT3PO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/V0/HUKH6RLIOQLS4TGIDBT3PO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/H1/LDP6OVP70PHX32RQMG473C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/H1/LDP6OVP70PHX32RQMG473C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/F5/JRSBJCG67E7NQJCMC0NSZ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/5/CT/UK3EOACVD56A6MY64CA3J7.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/4O/9LOY8096EWB3K8W776AA5S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/4O/9LOY8096EWB3K8W776AA5S.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/3E/VZVTOYCVY7P3KTD6YH547Q.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/2/3E/VZVTOYCVY7P3KTD6YH547Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/NH/N3SG1IUXLZV2B5GTM2V878.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/NH/N3SG1IUXLZV2B5GTM2V878.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.12.22-17.17.39:375][443]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/levels/level1/0/25/NETZUFICOSUQ27Z3EZ036Q.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:452][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:453][443]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.12.22-17.17.39:487][443]PIE: Server logged in
+[2023.12.22-17.17.39:488][443]PIE: Play in editor total start time 0.701 seconds.
+[2023.12.22-17.17.49:761][583]LogViewport: Scene viewport resized to 1206x687, mode Windowed.
+[2023.12.22-17.17.49:806][585]LogViewport: Scene viewport resized to 1206x698, mode Windowed.
+[2023.12.22-17.17.50:092][617]LogViewport: Scene viewport resized to 1206x704, mode Windowed.
+[2023.12.22-17.17.50:143][619]LogViewport: Scene viewport resized to 1206x709, mode Windowed.
+[2023.12.22-17.17.50:287][634]LogViewport: Scene viewport resized to 1206x707, mode Windowed.
+[2023.12.22-17.17.50:321][636]LogViewport: Scene viewport resized to 1206x699, mode Windowed.
+[2023.12.22-17.17.50:434][648]LogViewport: Scene viewport resized to 1206x691, mode Windowed.
+[2023.12.22-17.17.50:469][650]LogViewport: Scene viewport resized to 1206x690, mode Windowed.
+[2023.12.22-17.17.50:497][652]LogViewport: Scene viewport resized to 1206x688, mode Windowed.
+[2023.12.22-17.17.50:615][665]LogViewport: Scene viewport resized to 1206x685, mode Windowed.
+[2023.12.22-17.17.50:645][667]LogViewport: Scene viewport resized to 1206x682, mode Windowed.
+[2023.12.22-17.17.50:905][697]LogViewport: Scene viewport resized to 1206x676, mode Windowed.
+[2023.12.22-17.17.51:036][709]LogViewport: Scene viewport resized to 1206x673, mode Windowed.
+[2023.12.22-17.17.52:198][846]LogViewport: Scene viewport resized to 1206x679, mode Windowed.
+[2023.12.22-17.17.52:391][865]LogViewport: Scene viewport resized to 1206x682, mode Windowed.
+[2023.12.22-17.17.52:440][867]LogViewport: Scene viewport resized to 1206x691, mode Windowed.
+[2023.12.22-17.17.52:843][913]LogViewport: Scene viewport resized to 1206x689, mode Windowed.
+[2023.12.22-17.17.53:021][930]LogViewport: Scene viewport resized to 1206x684, mode Windowed.
+[2023.12.22-17.17.53:486][982]LogViewport: Scene viewport resized to 1206x681, mode Windowed.
+[2023.12.22-17.17.53:670][  0]LogViewport: Scene viewport resized to 1206x679, mode Windowed.
+[2023.12.22-17.17.56:237][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-17.17.56:237][251]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.12.22-17.17.56:254][251]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.22-17.17.56:256][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.17.56:276][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.22-17.17.56:291][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.17.56:358][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.22-17.17.56:364][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.22-17.17.56:366][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.22-17.17.56:368][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.22-17.17.56:381][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.12.22-17.17.56:414][252]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.12.22-17.18.11:128][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.12.22-17.18.11:652][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Kendrick_s_Office.Kendrick_s_Office (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:652][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Street_Shootout.Street_Shootout (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:652][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Revolver_Cylinder.Revolver_Cylinder (BGRA8, 1834X1880 X1X1) (Required Memory Estimate: 65.763855 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:652][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/The_Brothers.The_Brothers (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:652][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Settings/background.background (BGRA8, 1920X959 X1X1) (Required Memory Estimate: 35.119629 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:843][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Settings/header.header (BGRA8, 1920X127 X1X1) (Required Memory Estimate: 4.650879 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:844][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Settings/left_button.left_button (BGRA8, 80X78 X1X1) (Required Memory Estimate: 0.119019 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:844][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/New_Load_Save/save_file_borders.save_file_borders (BGRA8, 705X404 X1X1) (Required Memory Estimate: 5.43251 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:844][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/New_Load_Save/save_file_transparent_background.save_file_transparent_background (BGRA8, 705X404 X1X1) (Required Memory Estimate: 5.43251 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:844][835]LogTexture: Display: Building textures: /Game/UI/Main_Menu/Settings/setting_tabs.setting_tabs (BGRA8, 605X959 X1X1) (Required Memory Estimate: 11.066341 MB), EncodeSpeed: Fast
+[2023.12.22-17.18.11:899][835]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/MainMenu.MainMenu
+[2023.12.22-17.18.11:899][835]Cmd: MAP LOAD FILE="E:/UEProjects/RedoneUI/Content/levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.22-17.18.11:899][835]LightingResults: New page: Lighting Build
+[2023.12.22-17.18.11:941][835]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.12.22-17.18.11:970][835]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.22-17.18.11:970][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.18.11:975][835]MapCheck: New page: Map Check
+[2023.12.22-17.18.11:975][835]LightingResults: New page: Lighting Build
+[2023.12.22-17.18.12:008][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.22-17.18.12:091][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.12.22-17.18.12:109][835]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.12.22-17.18.12:109][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.22-17.18.12:143][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.22-17.18.12:177][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.12.22-17.18.12:212][835]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.12.22-17.18.12:212][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.22-17.18.12:212][835]LogAIModule: Creating AISystem for world MainMenu
+[2023.12.22-17.18.12:213][835]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.22-17.18.12:213][835]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
